@@ -1,0 +1,23 @@
+{
+  "name": "stalar",
+  "description": "Stalar for Claude Code, Codex and Cursor: the agentic workspace for sales and revenue teams. Skills for sales prospecting, lead generation, account research, cold outreach, meeting prep and follow-ups on the Stalar MCP server.",
+  "author": {
+    "name": "Stalar",
+    "url": "https://stalar.ai"
+  },
+  "homepage": "https://stalar.ai",
+  "skills": "./skills",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "revenue",
+    "prospecting",
+    "lead-generation",
+    "outbound",
+    "account-research",
+    "mcp",
+    "agent-skills"
+  ],
+  "repository": "https://github.com/stalarai/skills"
+}
