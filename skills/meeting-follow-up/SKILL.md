@@ -1,6 +1,6 @@
 ---
 name: meeting-follow-up
-description: Follow up after a sales meeting or call with Stalar: a meeting recap, call notes, next steps, and the follow-up email. Use when the user just had a meeting or call and wants a recap or the email that goes after it.
+description: "Follow up after a sales meeting or call with Stalar: a meeting recap, call notes, next steps, and the follow-up email. Use when the user just had a meeting or call and wants a recap or the email that goes after it."
 ---
 
 # meeting-follow-up

@@ -1,6 +1,6 @@
 ---
 name: account-research
-description: Research one company before reaching out or a call: what they do, recent news, who works there, what we already know from emails, meetings and the CRM, and why they might buy. Use when the user asks about a specific company or account, wants an account brief or a company summary.
+description: "Research one company before reaching out or a call: what they do, recent news, who works there, what we already know from emails, meetings and the CRM, and why they might buy. Use when the user asks about a specific company or account, wants an account brief or a company summary."
 ---
 
 # account-research

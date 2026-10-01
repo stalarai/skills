@@ -1,6 +1,6 @@
 ---
 name: meeting-prep
-description: Prepare for a sales meeting or call with Stalar: who is attending, the account's history, past conversations, open deals, talking points and questions to ask. Use when the user has a meeting, demo or call coming up and wants a brief.
+description: "Prepare for a sales meeting or call with Stalar: who is attending, the account's history, past conversations, open deals, talking points and questions to ask. Use when the user has a meeting, demo or call coming up and wants a brief."
 ---
 
 # meeting-prep

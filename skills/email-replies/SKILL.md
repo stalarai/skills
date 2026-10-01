@@ -1,6 +1,6 @@
 ---
 name: email-replies
-description: Answer prospect replies with Stalar: reply to an email, respond to a lead, handle an objection, book a meeting from a reply, triage the inbox, mark a conversation done. Use when the user wants to read or answer replies from prospects or customers.
+description: "Answer prospect replies with Stalar: reply to an email, respond to a lead, handle an objection, book a meeting from a reply, triage the inbox, mark a conversation done. Use when the user wants to read or answer replies from prospects or customers."
 ---
 
 # email-replies

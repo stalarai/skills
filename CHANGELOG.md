@@ -2,6 +2,11 @@
 
 All notable changes to the `stalar` skills are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versioning follows [SemVer](https://semver.org/).
 
+## [1.0.1] - 2026-10-01
+
+### Fixed
+- Skill descriptions are quoted, so `npx skills add` reads every skill.
+
 ## [1.0.0] - 2026-10-01
 
 ### Added

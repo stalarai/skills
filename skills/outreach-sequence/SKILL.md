@@ -1,6 +1,6 @@
 ---
 name: outreach-sequence
-description: Write cold outreach with Stalar: a cold email, a LinkedIn message, a follow-up sequence, an outbound cadence or playbook, personalized copy per prospect, and a preview of what a prospect would receive. Use when the user wants copy or a sequence written or changed. To send it use cold-outreach.
+description: "Write cold outreach with Stalar: a cold email, a LinkedIn message, a follow-up sequence, an outbound cadence or playbook, personalized copy per prospect, and a preview of what a prospect would receive. Use when the user wants copy or a sequence written or changed. To send it use cold-outreach."
 ---
 
 # outreach-sequence

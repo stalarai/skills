@@ -1,6 +1,6 @@
 ---
 name: find-contacts
-description: Find the people to contact at target companies with Stalar: decision makers, buyers, a title or role at an account, contact details, work emails, phone numbers, mobile numbers, LinkedIn profiles, enrich a contact. Use when the user wants names, emails or phones, not companies.
+description: "Find the people to contact at target companies with Stalar: decision makers, buyers, a title or role at an account, contact details, work emails, phone numbers, mobile numbers, LinkedIn profiles, enrich a contact. Use when the user wants names, emails or phones, not companies."
 ---
 
 # find-contacts

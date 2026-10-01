@@ -1,6 +1,6 @@
 ---
 name: lead-lists
-description: Grow, refresh or clean a lead list in Stalar: add more companies to a list, add named companies, pause or cancel a running search, see what is in a list. Use when the user mentions an existing list, segment or audience and wants it bigger, fresher or tidier. For a brand new list use prospecting.
+description: "Grow, refresh or clean a lead list in Stalar: add more companies to a list, add named companies, pause or cancel a running search, see what is in a list. Use when the user mentions an existing list, segment or audience and wants it bigger, fresher or tidier. For a brand new list use prospecting."
 ---
 
 # lead-lists

@@ -1,6 +1,6 @@
 ---
 name: stalar-setup
-description: Set up Stalar for this agent: connect the Stalar MCP server, sign in, pick the workspace, see credits and the Get started checklist, and connect email, LinkedIn, CRM and the meeting bot. Use when Stalar tools are missing, the user is new to Stalar, asks how to get started, hits a paywall or is out of credits, or wants to connect an account or invite teammates.
+description: "Set up Stalar for this agent: connect the Stalar MCP server, sign in, pick the workspace, see credits and the Get started checklist, and connect email, LinkedIn, CRM and the meeting bot. Use when Stalar tools are missing, the user is new to Stalar, asks how to get started, hits a paywall or is out of credits, or wants to connect an account or invite teammates."
 ---
 
 # stalar-setup

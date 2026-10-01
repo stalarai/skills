@@ -1,6 +1,6 @@
 ---
 name: sales-briefing
-description: Plan the sales day with Stalar: what to do today, my day, daily briefing, tasks due, follow-ups owed, replies waiting, approvals waiting, today's meetings. Use when the user asks what to work on, what is on their plate or for a morning summary.
+description: "Plan the sales day with Stalar: what to do today, my day, daily briefing, tasks due, follow-ups owed, replies waiting, approvals waiting, today's meetings. Use when the user asks what to work on, what is on their plate or for a morning summary."
 ---
 
 # sales-briefing

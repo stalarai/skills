@@ -1,6 +1,6 @@
 ---
 name: cold-outreach
-description: Run cold outreach campaigns in Stalar: launch or start a campaign, send a sequence to a lead list, pause or resume outreach, add or remove prospects, change who is enrolled. Use when the user wants outreach to go out or to change a running campaign. For writing the copy use outreach-sequence; for results use outreach-results.
+description: "Run cold outreach campaigns in Stalar: launch or start a campaign, send a sequence to a lead list, pause or resume outreach, add or remove prospects, change who is enrolled. Use when the user wants outreach to go out or to change a running campaign. For writing the copy use outreach-sequence; for results use outreach-results."
 ---
 
 # cold-outreach

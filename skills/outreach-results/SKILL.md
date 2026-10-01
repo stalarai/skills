@@ -1,6 +1,6 @@
 ---
 name: outreach-results
-description: See how outreach is doing in Stalar: campaign results, reply rate, meetings booked, who replied, open rates, stats, and messages waiting for approval. Use when the user asks how a campaign performs or what needs approving. To change the campaign use cold-outreach.
+description: "See how outreach is doing in Stalar: campaign results, reply rate, meetings booked, who replied, open rates, stats, and messages waiting for approval. Use when the user asks how a campaign performs or what needs approving. To change the campaign use cold-outreach."
 ---
 
 # outreach-results

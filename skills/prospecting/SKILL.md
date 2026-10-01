@@ -1,6 +1,6 @@
 ---
 name: prospecting
-description: Find new target companies with Stalar: leads, prospects, target accounts, ICP, ideal customer profile, lookalikes, companies like my customers, TAM, a market map or a new prospect list. Use when the user wants to discover companies to sell to. To add more to a list that already exists use lead-lists; for people and emails use find-contacts.
+description: "Find new target companies with Stalar: leads, prospects, target accounts, ICP, ideal customer profile, lookalikes, companies like my customers, TAM, a market map or a new prospect list. Use when the user wants to discover companies to sell to. To add more to a list that already exists use lead-lists; for people and emails use find-contacts."
 ---
 
 # prospecting
